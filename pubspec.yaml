@@ -1,0 +1,63 @@
+name: chat
+description: A new Flutter project.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0-393.0.dev <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.4.0
+  cloud_firestore: ^4.3.0
+  firebase_core: ^2.9.0
+  image_picker: ^0.8.7+1
+  uuid: ^3.0.4
+  firebase_storage: ^11.1.0
+  fluttertoast: ^8.0.8
+  http: ^0.13.5
+  agora_rtc_engine: ^6.1.0
+  permission_handler: ^10.2.0
+  agora_uikit: ^1.0.0
+  custom_clippers: ^2.0.0
+  zego_uikit_prebuilt_call: ^3.1.1
+  appinio_swiper: ^2.0.0
+  upi_india: ^3.0.1
+  url_launcher: ^6.1.10
+  # dependencies:
+  flutter_web_browser: "^0.17.1"
+  tflite: ^1.1.2
+  # upi_pay: ^0.2.4
+  # appinio_swiper: ...
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/
+    - assets/labels.txt
+    - assets/modelForSentimentAnalysis.tflite
+
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
