@@ -6,6 +6,8 @@ Machine learning models include :
 3. Medicine Recommendation
 4. Disease Detection using Symptoms
 
+The application is packed with interactive and effective User Interface (UI) and provides great User Experience (UX).
+
 Here are some snapshots from the app :
 ![WhatsApp Image 2023-07-23 at 18 44 37](https://github.com/yogesh-soni-4/Telemedicine-App/assets/112860792/eada9062-fee4-4355-8217-2dc6c5262085)
 ![WhatsApp Image 2023-07-23 at 18 44 36](https://github.com/yogesh-soni-4/Telemedicine-App/assets/112860792/7fc1381a-90e7-4350-bac0-9c490a14249f)
